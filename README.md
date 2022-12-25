@@ -14,6 +14,16 @@ Please feel free to send us pull requests or email us to add links.
 ## Papers
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)  | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
 
+
+#### Diffusion Model
+- [Image Super-Resolution via Iterative Refinement](https://arxiv.org/abs/2104.07636), Chitwan Saharia et al., arxiv 2021 | [Github](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) 
+
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752), Robin Rombach et al., CVPR 2022 | [Github](https://github.com/CompVis/latent-diffusion)
+
+- [Denoising Diffusion Restoration Models](https://arxiv.org/abs/2201.11793), Bahjat Kawar et al., ICLRW 2022 | [Github](https://github.com/bahjat-kawar/ddrm)
+
+- [Improving Diffusion Models for Inverse Problems using Manifold Constraints](https://arxiv.org/abs/2206.00941), Hyungjin Chung et al., NeurIPS 2022 | [Github](https://github.com/HJ-harry/MCG_diffusion)
+
 #### Faster Inference
 - [Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/), Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF) | [bibtex](./NeRF-and-Beyond.bib#L135-L141) <!---Liu20neurips_sparse_nerf-->
 
