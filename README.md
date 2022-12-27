@@ -11,8 +11,6 @@ Please feel free to send us pull requests or email us to add links.
 - [Implementations](#implementations) 
 
 ## Papers
-- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)  | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
-
 
 #### Diffusion Model
 - [Image Super-Resolution via Iterative Refinement](https://arxiv.org/abs/2104.07636), Chitwan Saharia et al., arxiv 2021 | [Github](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) 
