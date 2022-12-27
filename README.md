@@ -4,7 +4,6 @@ A curated list of awesome diffusion models in low-level vision papers, inspired 
 ## Contributing
 Please feel free to send us pull requests or email us to add links.
 
-#### [How to submit a pull request?](https://github.com/yenchenlin/awesome-NeRF/blob/main/how-to-PR.md)
 
 ## Table of Contents
 
