@@ -25,10 +25,13 @@ Please feel free to send us pull requests or email us to add links.
 #### Image Synthesis
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752), Robin Rombach et al., CVPR 2022 | [Code](https://github.com/CompVis/latent-diffusion)
 
+- [Diffusion Models Beat GANs on Image Synthesis](https://openreview.net/pdf?id=OU98jZWS3x_), Prafulla Dhariwal et al., NeurIPS 2021 | [Code](https://github.com/openai/guided-diffusion)
+
 ## Implementations
 
 #### PyTorch
-- [SR3](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)
+- [[SR3] Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)
+- [guided-diffusion](https://github.com/openai/guided-diffusion)
 
 ## License 
 MIT
