@@ -9,6 +9,7 @@ Please feel free to send us pull requests or email us to add links.
 
 - [Papers](#papers)
 - [Implementations](#implementations) 
+- [References](#references)
 
 ## Papers
 
@@ -52,7 +53,7 @@ Please feel free to send us pull requests or email us to add links.
 - [guided-diffusion](https://github.com/openai/guided-diffusion)
 
 
-## Other Collections
+## References
 
 - [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 
