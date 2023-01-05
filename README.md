@@ -15,7 +15,9 @@ Please feel free to send us pull requests or email us to add links.
 
 #### Image Restoration
 
-- [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](), Yinhuai Wang et al., arXiv 2022 | [code](https://github.com/wyhuai/DDNM)
+- [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://arxiv.org/abs/2209.14687), Hyungjin Chung et al., arXiv 2022 | [code](https://dps2022.github.io/diffusion-posterior-sampling-page/)
+
+- [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490), Yinhuai Wang et al., arXiv 2022 | [code](https://github.com/wyhuai/DDNM)
 
 - [Denoising Diffusion Restoration Models](https://arxiv.org/abs/2201.11793), Bahjat Kawar et al., ICLRW 2022 | [Code](https://github.com/bahjat-kawar/ddrm)
 
