@@ -42,6 +42,8 @@ Please feel free to send us pull requests or email us to add links.
 #### Compression Artifact Reduction
 - [JPEG Artifact Correction using Denoising Diffusion Restoration Models](https://arxiv.org/abs/2209.11888), Bahjat Kawar et al, NeurIPS Workshop 2022 | [code](https://github.com/bahjat-kawar/ddrm-jpeg) 
 
+#### Image Inpainting
+- [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2201.09865), Andreas Lugmayr et al, CVPR 2022 | [code](https://github.com/andreas128/RePaint) 
 
 #### Image Synthesis
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752), Robin Rombach et al., CVPR 2022 | [Code](https://github.com/CompVis/latent-diffusion)
@@ -54,6 +56,8 @@ Please feel free to send us pull requests or email us to add links.
 
 #### PyTorch
 - [[SR3] Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)
+- [[LDM] High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/CompVis/latent-diffusion)
+- [[Lama Cleaner] Lama Cleaner](https://github.com/Sanster/lama-cleaner)
 - [guided-diffusion](https://github.com/openai/guided-diffusion)
 
 
