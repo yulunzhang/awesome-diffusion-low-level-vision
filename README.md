@@ -15,6 +15,8 @@ Please feel free to send us pull requests or email us to add links.
 
 #### Image Restoration
 
+- [DiffIR: Efficient Diffusion Model for Image Restoration](https://arxiv.org/abs/2303.09472), Bin Xia et al., arXiv 2023 | [code]()
+
 - [Diffusion Posterior Sampling for General Noisy Inverse Problems](https://arxiv.org/abs/2209.14687), Hyungjin Chung et al., arXiv 2022 | [code](https://dps2022.github.io/diffusion-posterior-sampling-page/)
 
 - [Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model](https://arxiv.org/abs/2212.00490), Yinhuai Wang et al., arXiv 2022 | [code](https://github.com/wyhuai/DDNM)
