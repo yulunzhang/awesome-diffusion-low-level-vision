@@ -31,12 +31,13 @@ Please feel free to send us pull requests or email us to add links.
 
 #### Image Super-Resolution
 - [Image Super-Resolution via Iterative Refinement](https://arxiv.org/abs/2104.07636), Chitwan Saharia et al., TPAMI 2022 | [Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) 
+- [Implicit Diffusion Models for Continuous Super-Resolution](https://arxiv.org/abs/2303.16491), Sicheng Gao et al., CVPR 2023 | [Code](https://github.com/Ree1s/IDM)
+- [SRDiff: Single Image Super-Resolution with Diffusion Probabilistic Models](https://arxiv.org/abs/2104.14951), Haoying Li et al., Neurocomputing 2022 |  [Code](https://github.com/LeiaLi/SRDiff)
 
 
 #### Image Deblurring
 - [Image Deblurring with Domain Generalizable Diffusion Models](https://arxiv.org/pdf/2212.01789.pdf), Mengwei Ren et al., arXiv 2022
-
-- [Deblurring via Stochastic Refinement](https://openaccess.thecvf.com/content/CVPR2022/papers/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.pdf), Jay Whang et al., CVPR 2022
+- [Deblurring via Stochastic Refinement](https://openaccess.thecvf.com/content/CVPR2022/papers/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.pdf), Jay Whang et al., CVPR 2023
 
 
 #### Compression Artifact Reduction
