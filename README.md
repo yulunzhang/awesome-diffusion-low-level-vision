@@ -35,6 +35,7 @@ Please feel free to send us pull requests or email us to add links.
 
 
 #### Image Deblurring
+- [Hierarchical Integration Diffusion Model for Realistic Image Deblurring](https://arxiv.org/pdf/2305.12966v1.pdf), Zheng Chen et al., arXiv 2023 | [code](https://github.com/zhengchen1999/HI-Diff)
 - [Image Deblurring with Domain Generalizable Diffusion Models](https://arxiv.org/pdf/2212.01789.pdf), Mengwei Ren et al., arXiv 2022
 - [Deblurring via Stochastic Refinement](https://openaccess.thecvf.com/content/CVPR2022/papers/Whang_Deblurring_via_Stochastic_Refinement_CVPR_2022_paper.pdf), Jay Whang et al., CVPR 2022
 
