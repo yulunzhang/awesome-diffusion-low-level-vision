@@ -46,6 +46,10 @@ Please feel free to send us pull requests or email us to add links.
 #### Image Inpainting
 - [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2201.09865), Andreas Lugmayr et al, CVPR 2022 | [code](https://github.com/andreas128/RePaint) 
 
+#### Low-light Image Enhancement
+- [Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model](https://arxiv.org/abs/2308.13164v1), Xunpeng Yi et al, ICCV 2023
+
+
 #### Image Synthesis
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752), Robin Rombach et al., CVPR 2022 | [Code](https://github.com/CompVis/latent-diffusion)
 
