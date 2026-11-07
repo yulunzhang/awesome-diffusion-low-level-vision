@@ -57,6 +57,10 @@ Please feel free to send us pull requests or email us to add links.
 
 - [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2108.02938), Jooyoung Choi et al., ICCV 2021 | [Code](https://github.com/jychoi118/ilvr_adm)
 
+#### Video Frame Interpolation
+
+- [Motion-aware generative frame interpolation](https://link.springer.com/article/10.1007/s11432-025-4920-3), Guozhen Zhang et al., Science China Information Sciences 2026 | [arXiv](https://arxiv.org/abs/2501.03699) | [Code](https://github.com/MCG-NJU/MoG-VFI)
+
 ## Implementations
 
 #### PyTorch
